@@ -8,7 +8,8 @@ import {
   Container,
   TitlePhoneBook,
   TitleContacts,
-} from 'App.styled';
+} from './App.styled';
+
 
 
 export class App extends Component {
